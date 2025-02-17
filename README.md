@@ -34,8 +34,10 @@ This will install dependencies and start the frontend development server.
 
 The application will be available at http://localhost:5000 with direct access to all employee management features with authentication.
 
-##The login credientials for the Employee Details are as follws:
+## The login credientials for the Employee Details are as follws:
 ```sh
 Email : admin@example.com
 Password : admin123
+```
+
 
